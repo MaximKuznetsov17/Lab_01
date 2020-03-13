@@ -112,6 +112,7 @@ section {
     list-style-type: none;
     flex-wrap: wrap;
     justify-content: flex-start;
+    align-content: stretch;
     width: 1200px;
     margin: 0 auto;
 }
@@ -170,9 +171,7 @@ section {
 
 .feedback {
     margin-top: 50px;
-    display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
 }
 
 /* Форма обратной связи */
